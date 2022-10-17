@@ -1,6 +1,6 @@
 <h1 align="center">⚜️Waleed Samer Bot ⚜️<br></h1>
 <p align="center">
-<img src="https://issac-pubg.imgbb.com/"
+<img src="https://telegra.ph/Waleed-bot-10-07"
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) 
 
