@@ -1,6 +1,6 @@
-<h1 align="center">⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋 V6⚜️<br></h1>
+<h1 align="center">⚜️Waleed Samer Bot ⚜️<br></h1>
 <p align="center">
-<img src="https://i.ibb.co/NpXYnCh/Whats-App-Image-2022-10-10-at-10-37-16.jpg"
+<img src="https://issac-pubg.imgbb.com/"
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) 
 
